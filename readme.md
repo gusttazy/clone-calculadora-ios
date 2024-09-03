@@ -51,12 +51,6 @@ Confira uma breve demonstração da calculadora:
 
 Este projeto está na sua primeira versão. 🚀 Estamos comprometidos em aprimorar e atualizar a aplicação regularmente. Fique atento para novas funcionalidades e melhorias!
 
-## 💬 Contato
-
-Se tiver alguma dúvida ou sugestão, entre em contato:
-
-- **Seu Nome**: [gustavorodri22profissional@gmail.com](gustavorodri22profissional@gmail.com)
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE). Veja o arquivo `LICENSE` para mais detalhes.
