@@ -1,4 +1,4 @@
-# 🧮 Calculadora Clone iOS
+# 🧮 Calculadora iOS
 
 Bem-vindo ao repositório da Calculadora Clone iOS! 🎉 Este é um projeto criado com React Native e Expo que imita a calculadora nativa do iOS. 🚀
 
